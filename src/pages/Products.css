@@ -1,0 +1,13 @@
+.scrollprop::-webkit-scrollbar{
+    background-color: #333A48;
+    width: 5px;
+}
+.scrollprop::-webkit-scrollbar-thumb{
+    background-color: #a9a2a2;
+    width: 5px;
+}
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button{
+    display: none;
+}
+
